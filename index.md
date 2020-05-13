@@ -49,7 +49,7 @@ Para poder realizar este ejercicio, necesitaremos:
 4. En el Builder, seleccionar ``Organism`` en la primer pestaña
 5. Seleccionar ``Gene name ``en la segunda pestaña y teclear `` neuraminidase`` en su cuadro de diálogo
 6. Realizar la búsqueda nuevamente
-7. Añadir a la búsqueda ``AND complete`` para que el término final sea ``(Influenza A virus[Organism]) AND neuraminidase[Gene Name] AND complete``
+7. Añadir a la búsqueda ``AND complete`` para que el término final sea ``(Influenza A virus[Organism])AND human AND neuraminidase[Gene Name] AND complete``
 8. Por último, en el menú lateral izquierdo, selecciona `` refseq``
 
 #### Discusión
