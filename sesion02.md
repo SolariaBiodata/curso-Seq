@@ -9,14 +9,15 @@ En esta sesión haremos algunos ejercicios prácticos sobre lo revisado durante 
 
 Para poder realizar este ejercicio, necesitaremos:
 
-1. Datos de Ejemplo:
-    - Puedes usar tus propios datos siguiente algunas recomendaciones de este tutorial
-    - O puedes usar los datos del respositorio
-2. Sofware Recomendable para esta sesión:
-    - Navegador Web (Todas las Plataformas)
-    - Editor de texto (Windows)
+1. Programas Instalados:
+    - Chromas
+    - BioEdit
+> Los instaladores, se encuentran en la carpeta compartida o bien, puedes descargarlos directo de cualquier buscador web
 
-
+2. Archivos de secuenciación
+    - 8_160_FWD.ab1
+    - 8_160_RWD.ab1
+> Los archivos, se encuentran en la carpeta compartida, por favor descárgalos a tu computadora
 
 ## 1. Edición de secuencias Sanger con Chromas
 ### Descripción
