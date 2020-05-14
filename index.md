@@ -17,6 +17,7 @@ Recuerda que debes dar clic en el titulo de cada sesión para poder visualizar e
   1. Edición de secuencias
   2. Extracción de secuencias
   3. Obtención de secuencia consenso
+  
 #### SeqTrace
   1. Extracción del ejecutable
   2. Apertura de Proyecto y Carga de Archivos
