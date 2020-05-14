@@ -10,8 +10,8 @@ En esta sesión haremos algunos ejercicios prácticos sobre lo revisado durante 
 Para poder realizar este ejercicio, necesitaremos:
 
 1. Programas Instalados:
-    - Chromas
-    - BioEdit
+    - Chromas v2.6.6
+    - BioEdit v7.2.5
 > Los instaladores, se encuentran en la carpeta compartida o bien, puedes descargarlos directo de cualquier buscador web
 
 2. Archivos de secuenciación
