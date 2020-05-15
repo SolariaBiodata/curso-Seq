@@ -6,14 +6,20 @@ permalink: /sesion03.html
 
 ## 1. Alineamiento Local
 ### Descripción
-En este ejercicio veremos cómo accesar a diferentes repositorios de NCBI, utilizando la interfaz gráfica de nuestro navegador.
+En este ejercicio veremos cómo utilizar los diferentes tipos de BLAST, utilizando la interfaz gráfica de nuestro navegador.
 
 ### Requisitos
 
 Para poder realizar este ejercicio, necesitaremos:
-1. Ingresar a la página de NCBI: [https://www.ncbi.nlm.nih.gov/](https://www.ncbi.nlm.nih.gov/)
+1. Ingresar a la página de BLAST: [https://blast.ncbi.nlm.nih.gov/Blast.cgi](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
 
 ### Ejercicio 1
+
+1. Ingresar a NCBI y en la base de datos  
+
+
+
+
 
 ### Ejercicio 2
 
