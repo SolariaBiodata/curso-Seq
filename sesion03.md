@@ -19,11 +19,11 @@ Para poder realizar este ejercicio, necesitaremos:
 2. En el registro, buscar el No. de acceso de la proteína para la cual codifica
 3. Ingresar a los diferentes BLAST y pegar la secuencia (NT o AA segú requiera el programa)
 
--BLASTN: NT vs NT
--BLASTP: P vs P
--BLASTX: NT (antes los traduce) vs P
--TBLASTN: P vs NT (antes los traduce).
--TBLASTX: NT vs NT traduciendo todas las secuencias.
+    - BLASTN: NT vs NT
+    - BLASTP: P vs P
+    - BLASTX: NT (antes los traduce) vs P
+    - TBLASTN: P vs NT (antes los traduce).
+    - TBLASTX: NT vs NT traduciendo todas las secuencias.
 
 >Vamos a modificar algunas opciones del programa en general para todos los BLAST que hagamos
 
