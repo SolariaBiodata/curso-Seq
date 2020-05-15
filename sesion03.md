@@ -23,7 +23,7 @@ Para poder realizar este ejercicio, necesitaremos:
 Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múltiple de secuencias, utilizando el algoritmo de alineamiento global con las secuencias  que ya hemos descargado previamente.
 
 ### Instrucciones (Parte 1)
-1. Dirigirse a la herramienta de [https://www.ebi.ac.uk/Tools/msa/clustalo/](ClustalW)
+1. Dirigirse a la herramienta de [ClustalW](https://www.ebi.ac.uk/Tools/msa/clustalo/)
 2. Seleccionar el tipo de molécula a DNA.
 3. Pegar el contenido del archivo de secuencias o cargarlo desde la ventana que se abre al dar clic en 'Examinar'.
 4. Seleccionar el formato de salida a Pearson/FASTA.
@@ -33,13 +33,13 @@ Repasaremos lo que hemos aprendido respecto a los métodos de alineamiento múlt
 8. Descargaremos también la visualización.
 
 ### Instrucciones (Parte 2)
-1. Dirigirse a la herramienta de [https://www.ebi.ac.uk/Tools/msa/muscle/](MUSCLE)
+1. Dirigirse a la herramienta de [MUSCLE](https://www.ebi.ac.uk/Tools/msa/muscle/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
 
 ### Instrucciones (Parte 3)
-1. Dirigirse a la herramienta de [https://www.ebi.ac.uk/Tools/msa/mafft/](MAFFT)
+1. Dirigirse a la herramienta de [MAFFT](https://www.ebi.ac.uk/Tools/msa/mafft/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
 
 ### Instrucciones (Parte 4)
-1. Dirigirse a la herramienta de [https://www.ebi.ac.uk/Tools/msa/tcoffee/](TCOFFEE)
+1. Dirigirse a la herramienta de [TCOFFEE](https://www.ebi.ac.uk/Tools/msa/tcoffee/)
 2. Repetiremos los pasos 3 al 8 de la Parte 1 de este mismo ejercicio.
