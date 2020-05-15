@@ -17,9 +17,13 @@ Recuerda que debes dar clic en el titulo de cada sesión para poder visualizar e
   1. Edición de secuencias
   2. Extracción de secuencias
   3. Obtención de secuencia consenso
-  
+
 #### SeqTrace
   1. Extracción del ejecutable
   2. Apertura de Proyecto y Carga de Archivos
   3. Edición de electroferogramas
   4. Exportación de Secuencias Consenso
+
+### [Ejercicios de la Sesión 03](sesion03.md)
+  1. Alineamiento Local
+  2. Alineamiento Global
